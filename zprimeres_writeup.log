@@ -1,0 +1,310 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.8.30)  22 OCT 2010 19:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**zprimeres_writeup.tex
+(./zprimeres_writeup.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./zprimeres_writeup.aux)
+\openout1 = `zprimeres_writeup.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+ <tb-hw_wheel0.png, id=1, 1136.245pt x 453.695pt>
+File: tb-hw_wheel0.png Graphic file (type png)
+ <use tb-hw_wheel0.png>
+<twist3.png, id=2, 1256.695pt x 600.2425pt>
+File: twist3.png Graphic file (type png)
+ <use twist3.png>
+<twist1.png, id=3, 1669.23625pt x 327.2225pt>
+File: twist1.png Graphic file (type png)
+ <use twist1.png>
+<twist2.png, id=4, 1268.74pt x 701.62125pt>
+File: twist2.png Graphic file (type png)
+ <use twist2.png> [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./tb-hw_wheel0.png (PNG copy)>] [2 <./twist3.png (PNG copy)> <./twist1.png (P
+NG copy)>]
+<growth_with_station2.png, id=17, 423.5825pt x 439.6425pt>
+File: growth_with_station2.png Graphic file (type png)
+
+<use growth_with_station2.png>
+<growth_with_station_chi2.png, id=18, 460.72125pt x 353.32pt>
+File: growth_with_station_chi2.png Graphic file (type png)
+
+<use growth_with_station_chi2.png>
+<growth_with_station3.png, id=19, 643.40375pt x 640.3925pt>
+File: growth_with_station3.png Graphic file (type png)
+
+<use growth_with_station3.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 142.
+ [3 <./twist2.png (PNG copy)>] [4 <./growth_with_station2.png (PNG copy)> <./gr
+owth_with_station_chi2.png (PNG copy)> <./growth_with_station3.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 161.
+
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 161.
+
+Overfull \hbox (7.35533pt too wide) in paragraph at lines 162--165
+[]\OT1/cmr/m/n/12 twist: a 0.5 mrad ro-ta-tion of sec-tors to match the mag-ni-
+tude of the track-based/hardware
+ []
+
+<twist_station1.pdf, id=28, 499.79521pt x 237.97707pt>
+File: twist_station1.pdf Graphic file (type pdf)
+
+<use twist_station1.pdf>
+<localy_station1.pdf, id=29, 499.79521pt x 237.97707pt>
+File: localy_station1.pdf Graphic file (type pdf)
+
+<use localy_station1.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 174--176
+[][] [] 
+ []
+
+[5 <./twist_station1.pdf> <./localy_station1.pdf>]
+<curvbias_vseta_ideal_1100_GlobalMuons2.pdf, id=53, 396.48125pt x 569.12625pt>
+File: curvbias_vseta_ideal_1100_GlobalMuons2.pdf Graphic file (type pdf)
+
+<use curvbias_vseta_ideal_1100_GlobalMuons2.pdf>
+<curvbias_vseta_twist0_5mrad_1100_GlobalMuons2.pdf, id=54, 396.48125pt x 569.12
+625pt>
+File: curvbias_vseta_twist0_5mrad_1100_GlobalMuons2.pdf Graphic file (type pdf)
+
+ <use curvbias_vseta_twist0_5mrad_1100_GlobalMuons2.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 209--211
+[][] [] 
+ []
+
+
+<curvbias_vseta_twist0_5mrad_2000_GlobalMuons2.pdf, id=55, 396.48125pt x 569.12
+625pt>
+File: curvbias_vseta_twist0_5mrad_2000_GlobalMuons2.pdf Graphic file (type pdf)
+
+ <use curvbias_vseta_twist0_5mrad_2000_GlobalMuons2.pdf>
+<curvbias_vseta_antitwist0_5mrad_2000_GlobalMuons2.pdf, id=56, 396.48125pt x 56
+9.12625pt>
+File: curvbias_vseta_antitwist0_5mrad_2000_GlobalMuons2.pdf Graphic file (type 
+pdf)
+ <use curvbias_vseta_antitwist0_5mrad_2000_GlobalMuons2.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 232--234
+[][] [] 
+ []
+
+<curvbias_vspt_ideal_GlobalMuons2.pdf, id=57, 396.48125pt x 569.12625pt>
+File: curvbias_vspt_ideal_GlobalMuons2.pdf Graphic file (type pdf)
+
+<use curvbias_vspt_ideal_GlobalMuons2.pdf>
+<curvbias_vspt_twist0_5mrad_GlobalMuons2.pdf, id=58, 396.48125pt x 569.12625pt>
+File: curvbias_vspt_twist0_5mrad_GlobalMuons2.pdf Graphic file (type pdf)
+<use curvbias_vspt_twist0_5mrad_GlobalMuons2.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 241--243
+[][] [] 
+ []
+
+
+<trackdistort2d_twist0_5mrad_GlobalMuons2.pdf, id=59, 396.48125pt x 569.12625pt
+>
+File: trackdistort2d_twist0_5mrad_GlobalMuons2.pdf Graphic file (type pdf)
+ <use trackdistort2d_twist0_5mrad_GlobalMuons2.pdf>
+File: curvbias_vseta_twist0_5mrad_1100_GlobalMuons2.pdf Graphic file (type pdf)
+
+
+<use curvbias_vseta_twist0_5mrad_1100_GlobalMuons2.pdf>
+<curvbias_vseta_twist0_5mrad_1100_TeVMuons2picky.pdf, id=60, 396.48125pt x 569.
+12625pt>
+File: curvbias_vseta_twist0_5mrad_1100_TeVMuons2picky.pdf Graphic file (type pd
+f)
+ <use curvbias_vseta_twist0_5mrad_1100_TeVMuons2picky.pdf>
+<curvbias_vseta_twist0_5mrad_1100_TeVMuons2firstHit.pdf, id=61, 396.48125pt x 5
+69.12625pt>
+File: curvbias_vseta_twist0_5mrad_1100_TeVMuons2firstHit.pdf Graphic file (type
+ pdf)
+ <use curvbias_vseta_twist0_5mrad_1100_TeVMuons2firstHit.pdf>
+[6 <./curvbias_vseta_ideal_1100_GlobalMuons2.pdf> <./curvbias_vseta_twist0_5mra
+d_1100_GlobalMuons2.pdf>] [7 <./curvbias_vseta_twist0_5mrad_2000_GlobalMuons2.p
+df> <./curvbias_vseta_antitwist0_5mrad_2000_GlobalMuons2.pdf> <./curvbias_vspt_
+ideal_GlobalMuons2.pdf> <./curvbias_vspt_twist0_5mrad_GlobalMuons2.pdf>]
+[8 <./trackdistort2d_twist0_5mrad_GlobalMuons2.pdf> <./curvbias_vseta_twist0_5m
+rad_1100_TeVMuons2picky.pdf> <./curvbias_vseta_twist0_5mrad_1100_TeVMuons2first
+Hit.pdf>] <etadistort_GlobalMuons2.pdf, id=451, 396.48125pt x 569.12625pt>
+File: etadistort_GlobalMuons2.pdf Graphic file (type pdf)
+
+<use etadistort_GlobalMuons2.pdf>
+<eta1d_GlobalMuons2.pdf, id=452, 396.48125pt x 569.12625pt>
+File: eta1d_GlobalMuons2.pdf Graphic file (type pdf)
+
+<use eta1d_GlobalMuons2.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 311--313
+[][] [] 
+ []
+
+<etadistort_TeVMuons2firstHit.pdf, id=453, 396.48125pt x 569.12625pt>
+File: etadistort_TeVMuons2firstHit.pdf Graphic file (type pdf)
+
+<use etadistort_TeVMuons2firstHit.pdf>
+<eta1d_TeVMuons2firstHit.pdf, id=454, 396.48125pt x 569.12625pt>
+File: eta1d_TeVMuons2firstHit.pdf Graphic file (type pdf)
+
+<use eta1d_TeVMuons2firstHit.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 322--324
+[][] [] 
+ []
+
+[9 <./etadistort_GlobalMuons2.pdf> <./eta1d_GlobalMuons2.pdf> <./etadistort_TeV
+Muons2firstHit.pdf> <./eta1d_TeVMuons2firstHit.pdf>]
+<massbias_ideal_1100_GlobalMuons2_plus.pdf, id=626, 396.48125pt x 569.12625pt>
+File: massbias_ideal_1100_GlobalMuons2_plus.pdf Graphic file (type pdf)
+
+<use massbias_ideal_1100_GlobalMuons2_plus.pdf>
+<massbias_twist0_5mrad_1100_GlobalMuons2_plus.pdf, id=627, 396.48125pt x 569.12
+625pt>
+File: massbias_twist0_5mrad_1100_GlobalMuons2_plus.pdf Graphic file (type pdf)
+ <use massbias_twist0_5mrad_1100_GlobalMuons2_plus.pdf>
+<clipping.pdf, id=628, 273.27658pt x 269.69807pt>
+File: clipping.pdf Graphic file (type pdf)
+ <use clipping.pdf>
+File: massbias_twist0_5mrad_1100_GlobalMuons2_plus.pdf Graphic file (type pdf)
+
+<use massbias_twist0_5mrad_1100_GlobalMuons2_plus.pdf>
+<massbias_twist0_5mrad_1100_GlobalMuons2_minus.pdf, id=629, 396.48125pt x 569.1
+2625pt>
+File: massbias_twist0_5mrad_1100_GlobalMuons2_minus.pdf Graphic file (type pdf)
+
+ <use massbias_twist0_5mrad_1100_GlobalMuons2_minus.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 393--395
+[][] [] 
+ []
+
+File: massbias_twist0_5mrad_1100_GlobalMuons2_plus.pdf Graphic file (type pdf)
+<use massbias_twist0_5mrad_1100_GlobalMuons2_plus.pdf>
+<massbias_antitwist0_5mrad_1100_GlobalMuons2_plus.pdf, id=630, 396.48125pt x 56
+9.12625pt>
+File: massbias_antitwist0_5mrad_1100_GlobalMuons2_plus.pdf Graphic file (type p
+df)
+ <use massbias_antitwist0_5mrad_1100_GlobalMuons2_plus.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 402--404
+[][] [] 
+ []
+
+[10 <./massbias_ideal_1100_GlobalMuons2_plus.pdf> <./massbias_twist0_5mrad_1100
+_GlobalMuons2_plus.pdf>] [11 <./clipping.pdf> <./massbias_twist0_5mrad_1100_Glo
+balMuons2_minus.pdf>]
+<massdistribution_1100_GlobalMuons2.pdf, id=773, 396.48125pt x 569.12625pt>
+File: massdistribution_1100_GlobalMuons2.pdf Graphic file (type pdf)
+
+<use massdistribution_1100_GlobalMuons2.pdf>
+<massdistribution_2000_GlobalMuons2.pdf, id=774, 396.48125pt x 569.12625pt>
+File: massdistribution_2000_GlobalMuons2.pdf Graphic file (type pdf)
+
+<use massdistribution_2000_GlobalMuons2.pdf>
+<massdistribution_3000_GlobalMuons2.pdf, id=775, 396.48125pt x 569.12625pt>
+File: massdistribution_3000_GlobalMuons2.pdf Graphic file (type pdf)
+
+<use massdistribution_3000_GlobalMuons2.pdf> [12 <./massbias_antitwist0_5mrad_1
+100_GlobalMuons2_plus.pdf> <./massdistribution_1100_GlobalMuons2.pdf> <./massdi
+stribution_2000_GlobalMuons2.pdf> <./massdistribution_3000_GlobalMuons2.pdf>]
+[13] (./zprimeres_writeup.aux) ) 
+Here is how much of TeX's memory you used:
+ 1095 strings out of 495061
+ 17828 string characters out of 1182621
+ 65476 words of memory out of 3000000
+ 4287 multiletter control sequences out of 15000+50000
+ 8251 words of font info for 29 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 25i,7n,20p,733b,244s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/c
+mex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy6
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on zprimeres_writeup.pdf (13 pages, 1589228 bytes).
+PDF statistics:
+ 986 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+
